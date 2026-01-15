@@ -1,10 +1,10 @@
-#👋Hi, I'm Hajar
+<h2>👋Hi, I'm Hajar<h2>
 
 I’m a Full-Stack Developer in progress focused on building real-world, production-ready web applications.
 
 I enjoy turning ideas into scalable systems, working across frontend, backend, real-time communication, and deployment. I’m currently strengthening my foundations with DSA in Java while building and deploying full-stack projects.
 
-##🚀 Projects
+<h3>🚀 Projects</h3>
 
 **🔗 ProConnect** — Professional Networking Platform
 
@@ -27,7 +27,7 @@ Backend integration and deployment
 
 Tech: React, Node.js, Express, MongoDB
 
-##🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
 **Frontend**
 React
@@ -45,12 +45,13 @@ Git & GitHub
 Cloud Deployment
 DSA in Java
 
-##🎯 Current Focus
+<h3>🎯 Current Focus</h3>
 
 1.Building more full-stack projects
 2.Improving problem-solving with DSA (Java)
 3.Learning system design and scalable backend patterns
 
-##🌐 Connect With Me
+<h3>🌐 Connect With Me</h3>
+
 GitHub: https://github.com/Ha1AY3
 Linkedin: www.linkedin.com/in/hajar-921986322
