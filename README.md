@@ -71,8 +71,6 @@ I'm a passionate developer who enjoys turning ideas into scalable systems. I wor
 - 🎨 **Dynamic UI** — Glass-morphism design that adapts to your mood
 
 **Tech:** React, Vite, SCSS, MediaPipe, Node.js, Express, MongoDB, JWT, Jamendo API
-
-**Live Demo:** [https://auralis.vercel.app](https://auralis.vercel.app)  
 **Repository:** [https://github.com/Ha1AY3/Auralis](https://github.com/Ha1AY3/Auralis)
 
 ---
@@ -83,18 +81,6 @@ I'm a passionate developer who enjoys turning ideas into scalable systems. I wor
 - 🧠 Improving problem-solving with **DSA in Java**
 - 📐 Learning system design and scalable backend patterns
 - ☁️ Cloud deployment and DevOps practices
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ha1AY3&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ha1AY3&layout=compact&theme=dark)
-
-</div>
 
 ---
 
