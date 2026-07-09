@@ -71,6 +71,7 @@ I'm a passionate developer who enjoys turning ideas into scalable systems. I wor
 - 🎨 **Dynamic UI** — Glass-morphism design that adapts to your mood
 
 **Tech:** React, Vite, SCSS, MediaPipe, Node.js, Express, MongoDB, JWT, Jamendo API
+
 **Repository:** [https://github.com/Ha1AY3/Auralis](https://github.com/Ha1AY3/Auralis)
 
 ---
