@@ -53,14 +53,14 @@ A complete AI research environment built around a single principle — **every f
 
 **Highlights:**
 
-- **RAG Pipeline with Inline Citations** — Real-time web search (Exa) with every claim source-linked
-- **Streaming Responses** — Token-by-token output with live citation rendering
-- **Research Roadmap** — Interactive mind map with hover-sourced learning nodes
-- **Research-Backed Notes PDF** — Turns conversations into structured, citable documents
-- **PDF Hybrid Research** — Combines private documents with live web evidence
-- **Verified Diagrams** — Web-sourced visuals validated by DeepSeek Vision
-- **Multimodal Input** — Text, Voice, Image, PDF
-- **O(1) Conversation Memory** — Bounded LLM context, constant cost regardless of conversation length
+- **RAG Pipeline with Inline Citations** - Real-time web search (Exa) with every claim source-linked
+- **Streaming Responses** - Token-by-token output with live citation rendering
+- **Research Roadmap** - Interactive mind map with hover-sourced learning nodes
+- **Research-Backed Notes PDF** - Turns conversations into structured, citable documents
+- **PDF Hybrid Research** - Combines private documents with live web evidence
+- **Verified Diagrams** - Web-sourced visuals validated by DeepSeek Vision
+- **Multimodal Input** - Text, Voice, Image, PDF
+- **O(1) Conversation Memory** - Bounded LLM context, constant cost regardless of conversation length
 
 **Tech:** React, Node.js, Express, MongoDB, Atlas Vector Search, DeepSeek, Google Gemini, Exa, ImageKit, Brevo
 
@@ -70,7 +70,7 @@ A complete AI research environment built around a single principle — **every f
 
 ## Other Projects
 
-### ProConnect — Professional Networking Platform
+### ProConnect - Professional Networking Platform
 A full-stack LinkedIn-inspired application.
 
 - User authentication & profile management
@@ -86,7 +86,7 @@ A full-stack LinkedIn-inspired application.
 
 ---
 
-### Stayora — Property Listing Platform
+### Stayora - Property Listing Platform
 A full-stack web application for property listings and exploration.
 
 - Property listing and browsing
@@ -101,15 +101,15 @@ A full-stack web application for property listings and exploration.
 
 ---
 
-### Auralis — AI-Powered Mood-Based Music Recommendation System
+### Auralis - AI-Powered Mood-Based Music Recommendation System
 An intelligent web app that detects your mood through facial expressions and recommends music in real time.
 
-- **Real-time Mood Detection** — MediaPipe analyzes facial expressions
-- **Smart Music Recommendations** — Songs suggested from detected emotion
-- **Favorites System** — Save songs for quick access
-- **Mood History & Emotion Timeline** — Auto-tracked emotional journey with visualizations
-- **Full Song Playback** — Streams from Jamendo's 500,000+ track library
-- **Dynamic UI** — Glass-morphism design that adapts to your mood
+- **Real-time Mood Detection** - MediaPipe analyzes facial expressions
+- **Smart Music Recommendations** - Songs suggested from detected emotion
+- **Favorites System** - Save songs for quick access
+- **Mood History & Emotion Timeline** - Auto-tracked emotional journey with visualizations
+- **Full Song Playback** - Streams from Jamendo's 500,000+ track library
+- **Dynamic UI** - Glass-morphism design that adapts to your mood
 
 **Tech:** React, Vite, SCSS, MediaPipe, Node.js, Express, MongoDB, JWT, Jamendo API
 
