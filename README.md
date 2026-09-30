@@ -28,11 +28,6 @@ I'm a full-stack developer focused on building production-grade applications. I 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI & Research APIs
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4B5563?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Exa](https://img.shields.io/badge/Exa%20Search-1E293B?style=for-the-badge&logo=searchengineland&logoColor=white)
-
 ### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
