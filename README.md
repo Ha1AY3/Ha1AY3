@@ -61,6 +61,8 @@ A complete AI research environment built around a single principle — **every f
 
 **Repository:** [github.com/Ha1AY3/Veritas](https://github.com/Ha1AY3/Veritas)
 
+**LinkedIn Post:** [lnkd.in/p/dgU__Df5](https://lnkd.in/p/dgU__Df5)
+
 ---
 
 ## Other Projects
